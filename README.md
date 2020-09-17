@@ -4,11 +4,14 @@
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 - How is the district summary affected?
+  
   Based on the result of the district summary, we can tell the passing rate for math decreased by 0.1% and passing rate for reading decreased by 0.1%. 
+  
   Original:
-  (Resources/district_summary_original.PNG)
+  ![](Resources/district_summary_original.PNG)
+  
   Challenge:
-  (Resources/district_summary_challenge.PNG)
+  ![](Resources/district_summary_challenge.PNG)
   
 - How is the school summary affected?
   As we mark the 9th grade student as NaN, the passing rate for math and reading both slightly decreased from the module result.
