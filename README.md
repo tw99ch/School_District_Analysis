@@ -19,11 +19,11 @@
   
   Original:
   
-    ![1](Resources/School summary_original.PNG)
+  ![](Resources/School_summary_original.PNG)
   
   Challenge:
   
-    ![2](Resources/School summary_challenge.PNG)
+  ![](Resources/School_summary_challenge.PNG)
   
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   The impact of replacing the ninth graders’ math and reading scores is significant. The passing rate for math decreased by around 27% from 93.9% to 66.9% and passing rate for reading decrease by 27.6% from 97.3% to 69.7% due to excluding ninth graders’ scores but divided by all students for calculation the passing rate.
