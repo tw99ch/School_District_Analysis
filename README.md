@@ -12,13 +12,21 @@
   The impact of replacing the ninth graders’ math and reading scores is significant. The passing rate for math decreased by around 27% from 93.9% to 66.9% and passing rate for reading decrease by 27.6% from 97.3% to 69.7% due to excluding ninth graders’ scores but divided by all students for calculation the passing rate.
 - How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
+
   Except for ninth-grade scores for reading and math are marked “nan”, all other scores remain the same.
+  
 - Scores by school spending
+
   Scores for spending range in $630-644 decreased. All other ranges remain the same.
+  
 - Scores by school size
+
   Passing rates for math and reading in medium school(1000-2000) decrease comparing to the original data.
+  
 - Scores by school type
+
   Passing rates for math and reading in charter school decrease comparing to the original data.
+  
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
   1.	The average scores for math and reading have been decreased for Thomas High School due to replacing ninth graders’ scores.
