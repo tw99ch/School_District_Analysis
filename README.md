@@ -1,5 +1,4 @@
 # School_District_Analysis
-# School_District_Analysis
 ## Overview of the school district analysis: Explain the purpose of this analysis.
   The purpose of the analysis is to evaluate the passing rate for reading and math as per the grade level. In addition, we can see whether the spending rage and school size have any impact over the passing rate for the school.
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
@@ -66,7 +65,7 @@
     Passing rates for math and reading in medium school(1000-2000) decrease comparing to the original data.
     
     Original: 
-    ![](Resources/Size_summary_original1.PNG)
+    ![](Resources/Size_summary_original.PNG)
     
     Challenge:
     ![](Resources/Size_summary_challenge.PNG)
@@ -77,7 +76,7 @@
     Passing rates for math and reading in charter school decrease comparing to the original data.
     
     Original: 
-    ![](Resources/school_type_original1.PNG)
+    ![](Resources/school_type_original.PNG)
     
     Challenge:
     ![](Resources/school_type_challenge.PNG
