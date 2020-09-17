@@ -54,7 +54,7 @@
   
   - Scores by school spending
 
-    Scores for spending range in $630-644 decreased as Thomas High School's budget per studend falls in range $630-644 . All other ranges remain the same.
+    Passing rate for spending range in $630-644 decreased as Thomas High School's budget per studend falls in range $630-644 . All other ranges remain the same.
     
     Original: 
     ![](Resources/Spending_range_original1.PNG)
