@@ -43,11 +43,24 @@
   - Math and reading scores by grade
 
     Except for ninth-grade scores for reading and math are marked “nan”, all other scores remain the same.
+    
+    Math: 
+    
+    ![](Resources/grade_school-summary_math.PNG)
+    
+    Reading: 
+    
+    ![](Resources/grade_school-summary_reading.PNG)
   
   - Scores by school spending
 
-    Scores for spending range in $630-644 decreased. All other ranges remain the same.
-  
+    Scores for spending range in $630-644 decreased as Thomas High School's budget per studend falls in range $630-644 . All other ranges remain the same.
+    
+    Original: 
+    ![](Resources/Spending_range_original.PNG)
+    
+    Challenge:
+    ![](Resources/Spending_range_challenge.PNG)
   - Scores by school size
 
     Passing rates for math and reading in medium school(1000-2000) decrease comparing to the original data.
