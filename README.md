@@ -69,7 +69,7 @@
     ![](Resources/Spending_range_original1.PNG)
     
     Challenge:
-    ![](Resources/Spending_range_challenge.PNG
+    ![](Resources/Spending_range_challenge.PNG)
     
     
   - Scores by school type
