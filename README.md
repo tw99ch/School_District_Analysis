@@ -66,10 +66,10 @@
     Passing rates for math and reading in medium school(1000-2000) decrease comparing to the original data.
     
     Original: 
-    ![](Resources/Spending_range_original1.PNG)
+    ![](Resources/Size_summary_original1.PNG)
     
     Challenge:
-    ![](Resources/Spending_range_challenge.PNG)
+    ![](Resources/Size_summary_challenge.PNG)
     
     
   - Scores by school type
