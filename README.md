@@ -16,7 +16,7 @@
   
 - How is the school summary affected?
   
-  As we mark the 9th grade student as NaN, the passing rate for math and reading both slightly decreased from the module result.
+  As we mark the 9th grade student as NaN, the passing rate for math and reading both slightly decreased from the module result. The passing rates for math and reading both decrease comparing to the original data. The passing rate for math decreased by around 27% from 93.9% to 66.9% and passing rate for reading decrease by 27.6% from 97.3% to 69.7% due to excluding ninth graders’ scores but divided by all students for calculation the passing rate.
   
   Original:
   
@@ -27,7 +27,16 @@
   ![](Resources/School_summary_challenge.PNG)
   
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  The impact of replacing the ninth graders’ math and reading scores is significant. The passing rate for math decreased by around 27% from 93.9% to 66.9% and passing rate for reading decrease by 27.6% from 97.3% to 69.7% due to excluding ninth graders’ scores but divided by all students for calculation the passing rate.
+  The impact of replacing the ninth graders’ math and reading scores is significant. The passing rate for math decreased by around 27% from 93.9% to 66.9% and passing rate for reading decrease by 27.6% from 97.3% to 69.7% due to excluding ninth graders’ scores but divided by all students for calculation the passing rate. The decrease in overall passing rate leads to drop in school ranking from the 2nd place in original data to  8th place.
+  Original:
+  
+  ![](Resources/School_rank_summary_original.PNG)
+  
+  Challenge:
+  
+  ![](Resources/School_rank_summary_challenge.PNG)
+  
+  
 - How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
 
