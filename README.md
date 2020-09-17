@@ -79,7 +79,7 @@
     ![](Resources/school_type_original.PNG)
     
     Challenge:
-    ![](Resources/school_type_challenge.PNG
+    ![](Resources/school_type_challenge.PNG)
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
   1.	The average scores for math and reading have been decreased for Thomas High School due to replacing ninth graders’ scores.
