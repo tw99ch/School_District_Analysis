@@ -57,18 +57,30 @@
     Scores for spending range in $630-644 decreased as Thomas High School's budget per studend falls in range $630-644 . All other ranges remain the same.
     
     Original: 
-    ![](Resources/Spending_range_original.PNG)
+    ![](Resources/Spending_range_original1.PNG)
     
     Challenge:
     ![](Resources/Spending_range_challenge.PNG)
   - Scores by school size
 
     Passing rates for math and reading in medium school(1000-2000) decrease comparing to the original data.
-  
+    
+    Original: 
+    ![](Resources/Spending_range_original1.PNG)
+    
+    Challenge:
+    ![](Resources/Spending_range_challenge.PNG
+    
+    
   - Scores by school type
 
     Passing rates for math and reading in charter school decrease comparing to the original data.
-  
+    
+    Original: 
+    ![](Resources/school_type_original1.PNG)
+    
+    Challenge:
+    ![](Resources/school_type_challenge.PNG
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
   1.	The average scores for math and reading have been decreased for Thomas High School due to replacing ninth graders’ scores.
