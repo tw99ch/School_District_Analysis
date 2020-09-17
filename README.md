@@ -19,6 +19,7 @@
   
   Original:
   ![](Resources/School summary_original.PNG)
+  
   Challenge:
   ![](Resources/School summary_challenge.PNG)
   
