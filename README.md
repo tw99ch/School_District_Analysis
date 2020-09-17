@@ -18,9 +18,11 @@
   As we mark the 9th grade student as NaN, the passing rate for math and reading both slightly decreased from the module result.
   
   Original:
+  
   ![](Resources/School summary_original.PNG)
   
   Challenge:
+  
   ![](Resources/School summary_challenge.PNG)
   
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
