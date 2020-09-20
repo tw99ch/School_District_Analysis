@@ -95,4 +95,4 @@ In summary, the below are the four major changes in the updated school district 
 The passing rates of math and reading for Thomas High School have been decreased due to ninth grade student don’t have scores data.
   2.	The decrease in passing rate for math and reading leads to decrease in passing rate for Spending Ranges in $630-644
   3.	Passing rate in school size for range in Medium (1000-2000) also decreased because Thomas High School’s student amount 1635 falls in this range.
-  4.	AS Thomas High school is a Charter school, the passing rate for charter schools also decrease.
+  4.	As Thomas High school is a Charter school, the passing rate for charter schools also decrease.
