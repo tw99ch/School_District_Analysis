@@ -1,7 +1,7 @@
 # School_District_Analysis
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview of the school district analysis: 
   The purpose of the analysis is to evaluate the passing rate for reading and math as per the grade level. In addition, we can see whether the spending rage and school size have any impact over the passing rate for the school.
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results: 
 
 - How is the district summary affected?
   
@@ -81,7 +81,8 @@
     Challenge:
     ![](Resources/school_type_challenge.PNG)
 
-## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
+In summary, the below are the four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
   1.	The average scores for math and reading have been decreased for Thomas High School due to replacing ninth graders’ scores.
 The passing rates of math and reading for Thomas High School have been decreased due to ninth grade student don’t have scores data.
   2.	The decrease in passing rate for math and reading leads to decrease in passing rate for Spending Ranges in $630-644
