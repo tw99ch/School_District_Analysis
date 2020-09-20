@@ -40,7 +40,7 @@
   ![](Resources/School_rank_summary_challenge.PNG)
   
   
-- How does replacing the ninth-grade scores affect the following:
+- Replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
 
     Except for ninth-grade scores for reading and math are marked “nan”, all other scores remain the same.
