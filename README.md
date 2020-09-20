@@ -8,9 +8,11 @@
   Based on the result of the district summary, we can tell the passing rate for math decreased by 0.1% and passing rate for reading decreased by 0.1%. 
   
   Original:
+  
   ![](Resources/district_summary_original.PNG)
   
   Challenge:
+  
   ![](Resources/district_summary_challenge.PNG)
   
 - How is the school summary affected?
@@ -56,18 +58,22 @@
     Passing rate for spending range in $630-644 decreased as Thomas High School's budget per studend falls in range $630-644 . All other ranges remain the same.
     
     Original: 
+    
     ![](Resources/Spending_range_original1.PNG)
     
     Challenge:
+    
     ![](Resources/Spending_range_challenge.PNG)
   - Scores by school size
 
     Passing rates for math and reading in medium school(1000-2000) decrease comparing to the original data.
     
     Original: 
+    
     ![](Resources/Size_summary_original.PNG)
     
     Challenge:
+    
     ![](Resources/Size_summary_challenge.PNG)
     
     
@@ -76,9 +82,11 @@
     Passing rates for math and reading in charter school decrease comparing to the original data.
     
     Original: 
+    
     ![](Resources/school_type_original.PNG)
     
     Challenge:
+    
     ![](Resources/school_type_challenge.PNG)
 
 ## Summary: 
